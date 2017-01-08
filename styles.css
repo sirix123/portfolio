@@ -1,0 +1,26 @@
+.navBar {
+	background-image: url("img/test1.jpg");
+	min-height: 500px; 
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nameCity {
+	background-image: url("img/test2.jpg");
+	min-height: 500px; 
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.currentProjects{
+	background-image: url("img/test3.jpg");
+	min-height: 500px; 
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
